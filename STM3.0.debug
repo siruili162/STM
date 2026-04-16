@@ -1,0 +1,15 @@
+{
+    "breakpoints": [
+        {
+            "breakpoint_type": 0,
+            "condition": "",
+            "enabled": true,
+            "filename": "STM.cpp",
+            "line": 129,
+            "timestamp": "1776344860684"
+        }
+    ],
+    "timestamp": "1776344862688",
+    "watchvars": [
+    ]
+}

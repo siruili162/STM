@@ -1,0 +1,62 @@
+[
+    {
+        "caretX": 2,
+        "caretY": 58,
+        "filename": "D:/01 李思睿/01 软件/STM/STM3.0/Guard.cpp",
+        "focused": false,
+        "isOpen": true,
+        "left": 0,
+        "order": 5,
+        "top": 1692
+    },
+    {
+        "caretX": 2,
+        "caretY": 70,
+        "filename": "D:/01 李思睿/01 软件/STM/STM3.0/ProcessUtils.cpp",
+        "focused": false,
+        "isOpen": true,
+        "left": 0,
+        "order": 3,
+        "top": 1224
+    },
+    {
+        "caretX": 1,
+        "caretY": 129,
+        "filename": "D:/01 李思睿/01 软件/STM/STM3.0/STM.cpp",
+        "focused": true,
+        "isOpen": true,
+        "left": 0,
+        "order": 0,
+        "top": 4464
+    },
+    {
+        "caretX": 39,
+        "caretY": 5,
+        "filename": "D:/01 李思睿/01 软件/STM/STM3.0/Config.h",
+        "focused": false,
+        "isOpen": true,
+        "left": 0,
+        "order": 1,
+        "top": 0
+    },
+    {
+        "caretX": 1,
+        "caretY": 15,
+        "filename": "D:/01 李思睿/01 软件/STM/STM3.0/Guard.h",
+        "focused": false,
+        "isOpen": true,
+        "left": 0,
+        "order": 4,
+        "top": 0
+    },
+    {
+        "caretX": 1,
+        "caretY": 11,
+        "filename": "D:/01 李思睿/01 软件/STM/STM3.0/ProcessUtils.h",
+        "focused": false,
+        "isOpen": true,
+        "left": 0,
+        "order": 2,
+        "top": 0
+    }
+]
