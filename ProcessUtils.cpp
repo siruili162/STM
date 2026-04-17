@@ -64,7 +64,7 @@ void EnsureBlacklistExists() {
 	std::ifstream file("blacklist.txt");
 	if (!file.good()) {
 		std::ofstream out("blacklist.txt");
-		out << "Plain Craft Launcher 2.exe" << std::endl;
+		out << "example.exe" << std::endl;
 		out.close();
 	}
 }
